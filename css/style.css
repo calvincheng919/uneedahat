@@ -54,7 +54,7 @@ section {
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
-  font-size: smaller;
+  margin-top: 6px;
 }
 
 .card {

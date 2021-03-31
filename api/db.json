@@ -1,0 +1,132 @@
+{
+  "products":
+  [
+  {
+    "id": 1,
+    "image_url": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XNXQQ6D&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=reallydontneedthis08-20&language=en_US",
+    "amazon_url": "https://www.amazon.com/Collectible-President-Donald-Trump-Troll/dp/B06XNXQQ6D/ref=as_li_ss_il?keywords=novelty+gag+gifts&qid=1556836225&s=gateway&sr=8-8&linkCode=li3&tag=reallydontneedthis08-20&linkId=2dc12f33278811de0a9076ba3e738ab4&language=en_US",
+    "title": "Trump Doll",
+    "description": "Hair To The Chief! Make your desk great again with this fun gift for friends AND foes alike. This wild-haired little guy perfectly captures the caricature that IS America's 45th President. A unique momento to one of the most fucked up American elections ever!",
+    "keyword": "trump",
+    "price": 1
+  },
+  {
+    "id": 2,
+    "image_url": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01F1AJG12&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=reallydontneedthis08-20&language=en_US",
+    "amazon_url": "https://www.amazon.com/Flexed-Sleeves-Funny-Sleeveless-Workout/dp/B01F1AJG12/ref=as_li_ss_il?qid=1556840762&s=gateway&sprefix=novelty+g,aps,347&sr=8-3&linkCode=li3&tag=reallydontneedthis08-20&linkId=76c5b355a0db3938fc3c523aa2066dfa&language=en_US",
+    "title": "Flexed Sleeves",
+    "description": "I flexed and the sleeves fell off. ",
+    "keyword": "sleeves",
+    "price": 2
+  },
+  {
+    "id": 3,
+    "image_url": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07ZPC9QD4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=reallydontneedthis08-20&language=en_US",
+    "amazon_url": "https://www.amazon.com/dp/B07ZPC9QD4/ref=as_li_ss_il?&ascsub&linkCode=li2&tag=reallydontneedthis08-20&linkId=c18e94d26143f57f8ea3ce1a2f4277bd&language=en_US",
+    "title": "Airpod Pro",
+    "description": "Apple Airpod Pros, with noise cancelling",
+    "keyword": "airpods",
+    "price": 1
+  },
+  {
+    "id": 4,
+    "image_url": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0796N3MV9&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=reallydontneedthis08-20&language=en_US",
+    "amazon_url": "https://www.amazon.com/dp/B0796N3MV9/ref=as_li_ss_il?&ascsub&linkCode=li2&tag=reallydontneedthis08-20&linkId=dc3af350f4b6c72056d55a2ae8ba26bf&language=en_US",
+    "title": "BYRIVER Acupressure Foot Massage Slippers Shoes Sandals",
+    "description": "BYRIVER Acupressure Foot Massage Slippers Shoes Sandals Reflexology Massager Relive Arthritis Back Pain, Christmas Gift for Mum Dad",
+    "keyword": "massage slippers",
+    "price": 2
+  },
+  {
+    "id": 5,
+    "image_url": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01KINPZV2&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=reallydontneedthis08-20&language=en_US",
+    "amazon_url": "https://www.amazon.com/dp/B01KINPZV2/ref=as_li_ss_il?&ascsub&linkCode=li2&tag=reallydontneedthis08-20&linkId=3596eb2e71b23283d1a893e5d7528338&language=en_US",
+    "title": "Pelican Emergency Lighting Station",
+    "description": "CVPKG presents Pelican 3310ELS Emergency Lighting Station by Pelican",
+    "keyword": "lighting",
+    "price": 3
+  },
+  {
+    "id": 6,
+    "image_url": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07Z1S924Y&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=reallydontneedthis08-20&language=en_US",
+    "amazon_url": "https://www.amazon.com/dp/B07Z1S924Y/ref=as_li_ss_il?&ascsub&linkCode=li2&tag=reallydontneedthis08-20&linkId=93ac592a8c537cf8b2e5db571a23f54b&language=en_US",
+    "title": "Side Table Desk",
+    "description": "Laptop Table Side Table Desk End Bedside Wall-Mounted Computer Desk Bookshelf Keyboard and Mouse Shelf Office Desk Solid Wood Against The Wall Table，Table Living Room Coffee Table FENPING",
+    "keyword": "side table",
+    "price": 3
+  },
+  {
+    "id": 7,
+    "image_url": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HN91YHY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=reallydontneedthis08-20&language=en_US",
+    "amazon_url": "https://www.amazon.com/dp/B00HN91YHY/ref=as_li_ss_il?&ascsub&linkCode=li2&tag=reallydontneedthis08-20&linkId=0a46b5b77894726127b96c2850462699&language=en_US",
+    "title": "Coleman Popup Tent",
+    "description": "Coleman 4-Person Pop-Up Tent",
+    "keyword": "tent",
+    "price": 1
+  },
+  {
+    "id": 8,
+    "image_url": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XNXQQ6D&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=reallydontneedthis08-20&language=en_US",
+    "amazon_url": "https://www.amazon.com/Collectible-President-Donald-Trump-Troll/dp/B06XNXQQ6D/ref=as_li_ss_il?keywords=novelty+gag+gifts&qid=1556836225&s=gateway&sr=8-8&linkCode=li3&tag=reallydontneedthis08-20&linkId=2dc12f33278811de0a9076ba3e738ab4&language=en_US",
+    "title": "Trump Doll",
+    "description": "Hair To The Chief! Make your desk great again with this fun gift for friends AND foes alike. This wild-haired little guy perfectly captures the caricature that IS America's 45th President. A unique momento to one of the most fucked up American elections ever!",
+    "keyword": "trump",
+    "price": 1
+  },
+  {
+    "id": 9,
+    "image_url": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01F1AJG12&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=reallydontneedthis08-20&language=en_US",
+    "amazon_url": "https://www.amazon.com/Flexed-Sleeves-Funny-Sleeveless-Workout/dp/B01F1AJG12/ref=as_li_ss_il?qid=1556840762&s=gateway&sprefix=novelty+g,aps,347&sr=8-3&linkCode=li3&tag=reallydontneedthis08-20&linkId=76c5b355a0db3938fc3c523aa2066dfa&language=en_US",
+    "title": "Flexed Sleeves",
+    "description": "I flexed and the sleeves fell off. ",
+    "keyword": "sleeves",
+    "price": 2
+  },
+  {
+    "id": 10,
+    "image_url": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07ZPC9QD4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=reallydontneedthis08-20&language=en_US",
+    "amazon_url": "https://www.amazon.com/dp/B07ZPC9QD4/ref=as_li_ss_il?&ascsub&linkCode=li2&tag=reallydontneedthis08-20&linkId=c18e94d26143f57f8ea3ce1a2f4277bd&language=en_US",
+    "title": "Airpod Pro",
+    "description": "Apple Airpod Pros, with noise cancelling",
+    "keyword": "airpods",
+    "price": 1
+  },
+  {
+    "id": 11,
+    "image_url": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0796N3MV9&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=reallydontneedthis08-20&language=en_US",
+    "amazon_url": "https://www.amazon.com/dp/B0796N3MV9/ref=as_li_ss_il?&ascsub&linkCode=li2&tag=reallydontneedthis08-20&linkId=dc3af350f4b6c72056d55a2ae8ba26bf&language=en_US",
+    "title": "BYRIVER Acupressure Foot Massage Slippers Shoes Sandals",
+    "description": "BYRIVER Acupressure Foot Massage Slippers Shoes Sandals Reflexology Massager Relive Arthritis Back Pain, Christmas Gift for Mum Dad",
+    "keyword": "massage slippers",
+    "price": 2
+  },
+  {
+    "id": 12,
+    "image_url": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01KINPZV2&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=reallydontneedthis08-20&language=en_US",
+    "amazon_url": "https://www.amazon.com/dp/B01KINPZV2/ref=as_li_ss_il?&ascsub&linkCode=li2&tag=reallydontneedthis08-20&linkId=3596eb2e71b23283d1a893e5d7528338&language=en_US",
+    "title": "Pelican Emergency Lighting Station",
+    "description": "CVPKG presents Pelican 3310ELS Emergency Lighting Station by Pelican",
+    "keyword": "lighting",
+    "price": 3
+  },
+  {
+    "id": 13,
+    "image_url": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07Z1S924Y&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=reallydontneedthis08-20&language=en_US",
+    "amazon_url": "https://www.amazon.com/dp/B07Z1S924Y/ref=as_li_ss_il?&ascsub&linkCode=li2&tag=reallydontneedthis08-20&linkId=93ac592a8c537cf8b2e5db571a23f54b&language=en_US",
+    "title": "Side Table Desk",
+    "description": "Laptop Table Side Table Desk End Bedside Wall-Mounted Computer Desk Bookshelf Keyboard and Mouse Shelf Office Desk Solid Wood Against The Wall Table，Table Living Room Coffee Table FENPING",
+    "keyword": "side table",
+    "price": 3
+  },
+  {
+    "id": 14,
+    "image_url": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HN91YHY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=reallydontneedthis08-20&language=en_US",
+    "amazon_url": "https://www.amazon.com/dp/B00HN91YHY/ref=as_li_ss_il?&ascsub&linkCode=li2&tag=reallydontneedthis08-20&linkId=0a46b5b77894726127b96c2850462699&language=en_US",
+    "title": "Coleman Popup Tent",
+    "description": "Coleman 4-Person Pop-Up Tent",
+    "keyword": "tent",
+    "price": 1
+  }
+
+]
+}

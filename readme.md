@@ -1,1 +1,3 @@
 You need a hat...
+
+Uses f06d06 color!

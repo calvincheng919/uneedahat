@@ -4,7 +4,7 @@ Uses f06d06 color!
 
 ## TODO:
 
-- Make responsive
+- ~~Make responsive~~ (sort of)
 - Make scrollable
 - Make dynamic and elastic based on dataset of hats
 - Make hats searchable - need database

@@ -97,20 +97,27 @@ footer {
   
 }
 
-@media (min-width: 640px) {
-
-
-}
-
 @media (min-width: 800px) {
+
+  main{
+    width: 80vw;
+    justify-content: space-evenly;
+  }
+  .card {
+    width: 25vw;
+  }
 
 }
 
 
 @media (min-width: 1024px) {
-
+  .card {
+    width: 23vw;
+  }
 }
 
 @media (min-width: 1280px) {
-
+  .card {
+    width: 20vw;
+  }
 }
